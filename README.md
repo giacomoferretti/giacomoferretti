@@ -21,11 +21,11 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/Revadike/epicgames-freebies-claimer/issues/67) in [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer)
-2. ❗️ Closed issue [#2](https://github.com/giacomoferretti/nfc-srix-tools/issues/2) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
-3. 🎉 Merged PR [#3](https://github.com/giacomoferretti/nfc-srix-tools/pull/3) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
-4. 🗣 Commented on [#2](https://github.com/giacomoferretti/nfc-srix-tools/issues/2) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
-5. 💪 Opened PR [#384](https://github.com/dyne/Tomb/pull/384) in [dyne/Tomb](https://github.com/dyne/Tomb)
+1. ❗️ Opened issue [#5](https://github.com/giacomoferretti/odex-patcher/issues/5) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+2. ❗️ Opened issue [#4](https://github.com/giacomoferretti/odex-patcher/issues/4) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+3. ❗️ Opened issue [#3](https://github.com/giacomoferretti/odex-patcher/issues/3) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+4. ❗️ Opened issue [#2](https://github.com/giacomoferretti/odex-patcher/issues/2) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+5. 🗣 Commented on [#67](https://github.com/Revadike/epicgames-freebies-claimer/issues/67) in [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats
