@@ -21,11 +21,11 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/giacomoferretti/odex-patcher/issues/2) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+1. ❗️ Closed issue [#2](https://github.com/giacomoferretti/odex-patcher/issues/2) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 2. 🗣 Commented on [#2](https://github.com/giacomoferretti/odex-patcher/issues/2) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-3. ❗️ Opened issue [#6](https://github.com/giacomoferretti/odex-patcher/issues/6) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-4. ❗️ Opened issue [#5](https://github.com/giacomoferretti/odex-patcher/issues/5) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-5. ❗️ Opened issue [#4](https://github.com/giacomoferretti/odex-patcher/issues/4) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+3. 🗣 Commented on [#2](https://github.com/giacomoferretti/odex-patcher/issues/2) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+4. 🗣 Commented on [#2](https://github.com/giacomoferretti/odex-patcher/issues/2) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+5. ❗️ Opened issue [#6](https://github.com/giacomoferretti/odex-patcher/issues/6) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats
