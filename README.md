@@ -21,9 +21,9 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/giacomoferretti/odex-patcher/issues/7) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-2. ❗️ Closed issue [#2](https://github.com/giacomoferretti/odex-patcher/issues/2) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-3. 🗣 Commented on [#2](https://github.com/giacomoferretti/odex-patcher/issues/2) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+1. 🗣 Commented on [#1814](https://github.com/material-components/material-components-android/issues/1814) in [material-components/material-components-android](https://github.com/material-components/material-components-android)
+2. ❗️ Opened issue [#7](https://github.com/giacomoferretti/odex-patcher/issues/7) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+3. ❗️ Closed issue [#2](https://github.com/giacomoferretti/odex-patcher/issues/2) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 4. 🗣 Commented on [#2](https://github.com/giacomoferretti/odex-patcher/issues/2) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 5. 🗣 Commented on [#2](https://github.com/giacomoferretti/odex-patcher/issues/2) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 <!--END_SECTION:activity-->
