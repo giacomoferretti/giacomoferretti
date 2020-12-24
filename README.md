@@ -21,11 +21,11 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/heagoo/odex_patcher/issues/2) in [heagoo/odex_patcher](https://github.com/heagoo/odex_patcher)
-2. 🗣 Commented on [#27](https://github.com/googlesamples/android-play-safetynet/issues/27) in [googlesamples/android-play-safetynet](https://github.com/googlesamples/android-play-safetynet)
-3. 🗣 Commented on [#3582](https://github.com/topjohnwu/Magisk/issues/3582) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
-4. 🗣 Commented on [#3590](https://github.com/topjohnwu/Magisk/issues/3590) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
-5. ❗️ Closed issue [#3](https://github.com/giacomoferretti/odex-patcher/issues/3) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+1. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+2. 🗣 Commented on [#2](https://github.com/heagoo/odex_patcher/issues/2) in [heagoo/odex_patcher](https://github.com/heagoo/odex_patcher)
+3. 🗣 Commented on [#27](https://github.com/googlesamples/android-play-safetynet/issues/27) in [googlesamples/android-play-safetynet](https://github.com/googlesamples/android-play-safetynet)
+4. 🗣 Commented on [#3582](https://github.com/topjohnwu/Magisk/issues/3582) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+5. 🗣 Commented on [#3590](https://github.com/topjohnwu/Magisk/issues/3590) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats
