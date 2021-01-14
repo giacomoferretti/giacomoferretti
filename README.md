@@ -21,8 +21,8 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-2. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+1. 🗣 Commented on [#588](https://github.com/Palakis/obs-websocket/issues/588) in [Palakis/obs-websocket](https://github.com/Palakis/obs-websocket)
+2. ❗️ Closed issue [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 3. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 4. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 5. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
