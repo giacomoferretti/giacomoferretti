@@ -21,10 +21,10 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#588](https://github.com/Palakis/obs-websocket/issues/588) in [Palakis/obs-websocket](https://github.com/Palakis/obs-websocket)
-2. ❗️ Closed issue [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-3. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-4. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+1. 🗣 Commented on [#5](https://github.com/giacomoferretti/nfc-srix-tools/issues/5) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
+2. 🗣 Commented on [#4](https://github.com/giacomoferretti/nfc-srix-tools/issues/4) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
+3. 🗣 Commented on [#588](https://github.com/Palakis/obs-websocket/issues/588) in [Palakis/obs-websocket](https://github.com/Palakis/obs-websocket)
+4. ❗️ Closed issue [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 5. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 <!--END_SECTION:activity-->
 
