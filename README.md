@@ -21,11 +21,11 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/giacomoferretti/nfc-srix-tools/issues/4) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
-2. 🗣 Commented on [#5](https://github.com/giacomoferretti/nfc-srix-tools/issues/5) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
-3. 🗣 Commented on [#5](https://github.com/giacomoferretti/nfc-srix-tools/issues/5) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
-4. 🗣 Commented on [#4](https://github.com/giacomoferretti/nfc-srix-tools/issues/4) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
-5. 🗣 Commented on [#588](https://github.com/Palakis/obs-websocket/issues/588) in [Palakis/obs-websocket](https://github.com/Palakis/obs-websocket)
+1. 🗣 Commented on [#5](https://github.com/giacomoferretti/nfc-srix-tools/issues/5) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
+2. ❗️ Closed issue [#5](https://github.com/giacomoferretti/nfc-srix-tools/issues/5) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
+3. 🗣 Commented on [#4](https://github.com/giacomoferretti/nfc-srix-tools/issues/4) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
+4. ❗️ Closed issue [#4](https://github.com/giacomoferretti/nfc-srix-tools/issues/4) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
+5. 🗣 Commented on [#4](https://github.com/giacomoferretti/nfc-srix-tools/issues/4) in [giacomoferretti/nfc-srix-tools](https://github.com/giacomoferretti/nfc-srix-tools)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats
