@@ -23,9 +23,9 @@ Here are some of my personal favorite projects, ordered by category.
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 2. 🗣 Commented on [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-3. ❗️ Closed issue [#1](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/1) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-4. 🗣 Commented on [#4374](https://github.com/topjohnwu/Magisk/issues/4374) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
-5. 🗣 Commented on [#1](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/1) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+3. 🗣 Commented on [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. ❗️ Closed issue [#1](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/1) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+5. 🗣 Commented on [#4374](https://github.com/topjohnwu/Magisk/issues/4374) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats
