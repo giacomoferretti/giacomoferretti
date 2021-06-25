@@ -9,11 +9,11 @@ Here are some of my personal favorite projects, ordered by category.
 ### Android
 [![odex-patcher](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=odex-patcher&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/odex-patcher)
 
-<!--[![janus-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=janus-toolkit&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/janus-toolkit)
-
-[![apk-modding-tools](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=apk-modding-tools&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/apk-modding-tools)-->
-
 [![paranoid-deobfuscator](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=paranoid-deobfuscator&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/paranoid-deobfuscator)
+
+[![janus-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=janus-toolkit&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/janus-toolkit)
+
+<!--[![apk-modding-tools](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=apk-modding-tools&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/apk-modding-tools)-->
 
 ### NFC
 [![nfc-srix-tools](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=nfc-srix-tools&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/nfc-srix-tools)
