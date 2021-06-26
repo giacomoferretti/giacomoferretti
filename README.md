@@ -22,9 +22,9 @@ Here are some of my personal favorite projects, ordered by category.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-2. ❗️ Reopened issue [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-3. ❗️ Closed issue [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-4. 🗣 Commented on [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+2. 🗣 Commented on [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+3. ❗️ Reopened issue [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. ❗️ Closed issue [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 5. 🗣 Commented on [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 <!--END_SECTION:activity-->
 
