@@ -15,6 +15,9 @@ Here are some of my personal favorite projects, ordered by category.
 
 <!--[![apk-modding-tools](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=apk-modding-tools&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/apk-modding-tools)-->
 
+### Wi-Fi
+[![chopper](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=chopper&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/chopper)
+
 ### NFC
 [![nfc-srix-tools](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=nfc-srix-tools&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/nfc-srix-tools)
 
