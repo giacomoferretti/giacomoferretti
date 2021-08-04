@@ -18,6 +18,8 @@ Here are some of my personal favorite projects, ordered by category.
 ### Wi-Fi
 [![chopper](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=chopper&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/chopper)
 
+[![chopper-go](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=chopper-go&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/chopper-go)
+
 ### NFC
 [![nfc-srix-tools](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=nfc-srix-tools&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/nfc-srix-tools)
 
