@@ -27,10 +27,10 @@ Here are some of my personal favorite projects, ordered by category.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-2. ❗️ Reopened issue [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-3. 🗣 Commented on [#211](https://github.com/complexorganizations/wireguard-manager/issues/211) in [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
-4. 💪 Opened PR [#211](https://github.com/complexorganizations/wireguard-manager/pull/211) in [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
-5. 🗣 Commented on [#2](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+2. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+3. ❗️ Reopened issue [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+4. 🗣 Commented on [#211](https://github.com/complexorganizations/wireguard-manager/issues/211) in [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
+5. 💪 Opened PR [#211](https://github.com/complexorganizations/wireguard-manager/pull/211) in [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats
