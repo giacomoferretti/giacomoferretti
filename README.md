@@ -26,11 +26,11 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+1. ❗️ Closed issue [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 2. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-3. ❗️ Reopened issue [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-4. 🗣 Commented on [#211](https://github.com/complexorganizations/wireguard-manager/issues/211) in [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
-5. 💪 Opened PR [#211](https://github.com/complexorganizations/wireguard-manager/pull/211) in [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
+3. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+4. 🗣 Commented on [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+5. ❗️ Reopened issue [#8](https://github.com/giacomoferretti/odex-patcher/issues/8) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats
