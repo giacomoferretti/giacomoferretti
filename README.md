@@ -1,12 +1,14 @@
-# Hi there! 👋
+<h1 align='center'>
+  Hi there 👋 I'm Giacomo Ferretti 👨‍💻
+</h1>
 
-I'm Giacomo Ferretti, a student from Italy, full-stack developer and designer.
+<!--I'm Giacomo Ferretti, a student from Italy, full-stack developer and designer.-->
 
 ## Personal Projects
 
 Here are some of my personal favorite projects, ordered by category.
 
-### Android
+### 🤖 Android
 [![odex-patcher](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=odex-patcher&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/odex-patcher)
 
 [![paranoid-deobfuscator](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=paranoid-deobfuscator&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/paranoid-deobfuscator)
@@ -15,12 +17,12 @@ Here are some of my personal favorite projects, ordered by category.
 
 <!--[![apk-modding-tools](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=apk-modding-tools&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/apk-modding-tools)-->
 
-### Wi-Fi
+### 📶 Wi-Fi
 [![chopper](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=chopper&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/chopper)
 
 [![chopper-go](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=chopper-go&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/chopper-go)
 
-### NFC
+### 📶 NFC
 [![nfc-srix-tools](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=nfc-srix-tools&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/nfc-srix-tools)
 
 ## ⚡ Recent Activity
@@ -35,6 +37,6 @@ Here are some of my personal favorite projects, ordered by category.
 
 ## 📈 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=giacomoferretti&show_icons=true&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&icon_color=7448FF&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=giacomoferretti&show_icons=true&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&icon_color=7448FF&hide_border=true&include_all_commits=true&count_private=true)" width="500">
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giacomoferretti&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomoferretti&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true&langs_count=8&layout=compact" width="500">
