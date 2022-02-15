@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Giacomo Ferretti 👨‍💻
+  Hi there! I'm Giacomo Ferretti 👋
 </h1>
 
 <!--I'm Giacomo Ferretti, a student from Italy, full-stack developer and designer.-->
