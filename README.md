@@ -31,15 +31,15 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
-2. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
-3. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
+1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/vite-starter](https://github.com/giacomoferretti/vite-starter)
+2. ⬆️ Pushed 1 commit(s) to [giacomoferretti/vite-starter](https://github.com/giacomoferretti/vite-starter)
+3. ⬆️ Pushed 2 commit(s) to [giacomoferretti/vite-starter](https://github.com/giacomoferretti/vite-starter)
 4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
-5. ⬆️ Pushed 1 commit(s) to [giacomoferretti/vite-starter](https://github.com/giacomoferretti/vite-starter)
+5. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 1st, 2022, 7:32:33 PM
+Last Updated: Monday, August 1st, 2022, 8:14:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
