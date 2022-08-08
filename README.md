@@ -46,4 +46,4 @@ Last Updated: Monday, August 8th, 2022, 7:36:07 AM
 
 <img src="https://github-readme-stats.vercel.app/api?username=giacomoferretti&show_icons=true&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&icon_color=7448FF&hide_border=true&include_all_commits=true&count_private=true)" width="500">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomoferretti&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true&langs_count=8&layout=compact" width="500">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomoferretti&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true&langs_count=8&layout=compact" width="500">-->
