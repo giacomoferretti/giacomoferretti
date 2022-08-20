@@ -31,15 +31,15 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/vite-starter](https://github.com/giacomoferretti/vite-starter)
-2. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
-3. 💬 Commented on [#1](https://github.com/giacomoferretti/forks-diff/issues/1#issuecomment-1207787521) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
-4. 💬 Commented on [#1](https://github.com/giacomoferretti/forks-diff/issues/1#issuecomment-1207784446) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
-5. ⬆️ Pushed 1 commit(s) to [giacomoferretti/vite-starter](https://github.com/giacomoferretti/vite-starter)
+1. ✌️ Released [](https://github.com/giacomoferretti/forks-diff/releases/tag/v1.2.1) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+2. ✔️ Closed issue [#1](https://github.com/giacomoferretti/forks-diff/issues/1) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+3. ⬆️ Pushed 1 commit(s) to [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/vite-starter](https://github.com/giacomoferretti/vite-starter)
+5. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 20th, 2022, 9:10:32 AM
+Last Updated: Saturday, August 20th, 2022, 9:37:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
