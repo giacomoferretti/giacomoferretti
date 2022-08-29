@@ -31,15 +31,15 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#10](https://github.com/giacomoferretti/odex-patcher/issues/10#issuecomment-1230820355) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-2. 💬 Commented on [#10](https://github.com/giacomoferretti/odex-patcher/issues/10#issuecomment-1229227531) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-3. 💬 Commented on [#11](https://github.com/giacomoferretti/odex-patcher/issues/11#issuecomment-1225784887) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-4. 💬 Commented on [#10](https://github.com/giacomoferretti/odex-patcher/issues/10#issuecomment-1225784059) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-5. 💬 Commented on [#10](https://github.com/giacomoferretti/odex-patcher/issues/10#issuecomment-1221409710) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+1. 💬 Commented on [#1](https://github.com/giacomoferretti/forks-diff/issues/1#issuecomment-1230898994) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+2. 💬 Commented on [#2](https://github.com/giacomoferretti/forks-diff/issues/2#issuecomment-1230897071) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+3. 💬 Commented on [#10](https://github.com/giacomoferretti/odex-patcher/issues/10#issuecomment-1230820355) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+4. 💬 Commented on [#10](https://github.com/giacomoferretti/odex-patcher/issues/10#issuecomment-1229227531) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+5. 💬 Commented on [#11](https://github.com/giacomoferretti/odex-patcher/issues/11#issuecomment-1225784887) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 29th, 2022, 9:37:35 PM
+Last Updated: Monday, August 29th, 2022, 10:11:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
