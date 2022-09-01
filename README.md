@@ -31,15 +31,15 @@ Here are some of my personal favorite projects, ordered by category.
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/giacomoferretti/forks-diff/issues/1#issuecomment-1232915253) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
-2. ✌️ Released [](https://github.com/giacomoferretti/forks-diff/releases/tag/v1.2.2) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
-3. ⬆️ Pushed 2 commit(s) to [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
-4. ⬆️ Pushed 2 commit(s) to [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
-5. ⬆️ Pushed 1 commit(s) to [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+1. ❗️ Opened issue [#12](https://github.com/giacomoferretti/odex-patcher/issues/12) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+2. 💬 Commented on [#10](https://github.com/giacomoferretti/odex-patcher/issues/10#issuecomment-1234703757) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+3. 💬 Commented on [#1](https://github.com/giacomoferretti/forks-diff/issues/1#issuecomment-1232915253) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+4. ✌️ Released [](https://github.com/giacomoferretti/forks-diff/releases/tag/v1.2.2) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+5. ⬆️ Pushed 2 commit(s) to [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 1st, 2022, 7:34:26 PM
+Last Updated: Thursday, September 1st, 2022, 8:12:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
