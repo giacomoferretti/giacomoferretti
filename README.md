@@ -178,6 +178,29 @@ Colors:
   </tbody>
 </table>
 
+### 🎓 University
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Stars</th>
+      <th>Forks</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/unimi-tools">UNIMI Tools</a></td>
+      <td>A collection of tools for Università degli Studi di Milano Statale (UNIMI)</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/unimi-tools"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/unimi-tools"/></td>
+      <td><img src="https://img.shields.io/badge/language-Python-3572A5"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
