@@ -1,36 +1,187 @@
 <h1 align='center'>
   Hi there! I'm Giacomo Ferretti 👋
 </h1>
+<!--<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=giacomoferretti"/>
+  <img src="https://img.shields.io/github/followers/giacomoferretti?style=social"/>
+</p>-->
+<p align="center">
+  <a href="https://giacomoferretti.com">Website</a> •
+  <a href="mailto:giacomo.ferretti.00@gmail.com">Email</a>
+</p>
 
-<!--I'm Giacomo Ferretti, a student from Italy, full-stack developer and designer.-->
+## Repositories
 
-## Personal Projects
+Here are my personal projects, grouped by category.
 
-Here are some of my personal favorite projects, ordered by category.
+<!--
+Colors:
+ - C 555555 <img src="https://img.shields.io/badge/language-C-555555"/>
+ - Go 00ADD8 <img src="https://img.shields.io/badge/language-Go-00ADD8"/>
+ - Python 3572A5 <img src="https://img.shields.io/badge/language-Python-3572A5"/>
+ - Java B07219 <img src="https://img.shields.io/badge/language-Java-B07219"/>
+ - Kotlin A97BFF <img src="https://img.shields.io/badge/language-Kotlin-A97BFF"/>
+ - Shell 89E051 <img src="https://img.shields.io/badge/language-Shell-89E051"/>
+ - JavaScript F1E05A <img src="https://img.shields.io/badge/language-JavaScript-F1E05A"/>
+ - TypeScript 3178C6 <img src="https://img.shields.io/badge/language-TypeScript-3178C6"/>
+ - HTML E34C26 <img src="https://img.shields.io/badge/language-HTML-E34C26"/>
+ - CSS 563D7C <img src="https://img.shields.io/badge/language-CSS-563D7C"/>
+-->
 
 ### 🤖 Android
-[![odex-patcher](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=odex-patcher&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/odex-patcher)
 
-[![paranoid-deobfuscator](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=paranoid-deobfuscator&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/paranoid-deobfuscator)
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Stars</th>
+      <th>Forks</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/odex-patcher">Odex Patcher</a></td>
+      <td>Run arbitrary code by patching OAT files</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/odex-patcher"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/odex-patcher"/></td>
+      <td><img src="https://img.shields.io/badge/language-Kotlin-A97BFF"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/paranoid-deobfuscator">Paranoid Deobfuscator</a></td>
+      <td>Deobfuscate "paranoid" protected apps</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/paranoid-deobfuscator"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/paranoid-deobfuscator"/></td>
+      <td><img src="https://img.shields.io/badge/language-Python-3572A5"/><br/><img src="https://img.shields.io/badge/language-Java-B07219"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/sara">SARA</a></td>
+      <td>SARA - Single Activity Resourceless Apps</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/sara"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/sara"/></td>
+      <td><img src="https://img.shields.io/badge/language-Kotlin-A97BFF"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/janus-toolkit">Janus Toolkit</a></td>
+      <td>A collection of tools for the Janus exploit [CVE-2017-13156]</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/janus-toolkit"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/janus-toolkit"/></td>
+      <td><img src="https://img.shields.io/badge/language-Python-3572A5"/><br/><img src="https://img.shields.io/badge/language-Go-00ADD8"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/apk-modding-tools">APK Modding Tools</a></td>
+      <td>A collection of tools for modding Android applications</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/apk-modding-tools"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/apk-modding-tools"/></td>
+      <td><img src="https://img.shields.io/badge/language-Shell-89E051"/></td>
+    </tr>
+  </tbody>
+</table>
 
-[![janus-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=janus-toolkit&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/janus-toolkit)
+### Browser Extension
 
-<!--[![apk-modding-tools](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=apk-modding-tools&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/apk-modding-tools)-->
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Stars</th>
+      <th>Forks</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/forks-diff">Forks Diff Counter for GitHub</a></td>
+      <td>A Chrome and Firefox extension to show commits ahead and behind in the "Forks" page.</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/forks-diff"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/forks-diff"/></td>
+      <td><img src="https://img.shields.io/badge/language-JavaScript-F1E05A"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ### ⚛️ React
-[![vite-starter](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=vite-starter&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/vite-starter)
 
-<!--### 📶 Wi-Fi
-[![chopper](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=chopper&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/chopper)
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Stars</th>
+      <th>Forks</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/vite-starter">Vite Starter</a></td>
+      <td>Vite React starter project with TailwindCSS and TypeScript.</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/vite-starter"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/vite-starter"/></td>
+      <td><img src="https://img.shields.io/badge/language-TypeScript-3178C6"/></td>
+    </tr>
+  </tbody>
+</table>
 
-[![chopper-go](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=chopper-go&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/chopper-go)-->
+### 📶 Wi-Fi
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Stars</th>
+      <th>Forks</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/chopper">Chopper</a></td>
+      <td>A channel hopper for monitor mode written in C.</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/chopper"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/chopper"/></td>
+      <td><img src="https://img.shields.io/badge/language-C-555555"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/chopper-go">Chopper</a></td>
+      <td>A channel hopper for monitor mode written in Go.</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/chopper-go"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/chopper-go"/></td>
+      <td><img src="https://img.shields.io/badge/language-Go-00ADD8"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📶 NFC
-[![nfc-srix-tools](https://github-readme-stats.vercel.app/api/pin/?username=giacomoferretti&repo=nfc-srix-tools&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true)](https://github.com/giacomoferretti/nfc-srix-tools)
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Stars</th>
+      <th>Forks</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/nfc-srix-tools">NFC SRIX Tools</a></td>
+      <td>A collection of tools to read/write NFC ST SRI512 and SRIX4K tags.</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/nfc-srix-tools"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/nfc-srix-tools"/></td>
+      <td><img src="https://img.shields.io/badge/language-C-555555"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 2. ⬆️ Pushed 1 commit(s) to [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 3. ⬆️ Pushed 2 commit(s) to [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
@@ -39,11 +190,25 @@ Here are some of my personal favorite projects, ordered by category.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Friday, September 9th, 2022, 4:15:52 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=giacomoferretti&show_icons=true&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&icon_color=7448FF&hide_border=true&include_all_commits=true&count_private=true)" width="500">
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=giacomoferretti&bg_color=00000000&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=giacomoferretti&bg_color=00000000&text_color=000000&icon_color=000000&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=giacomoferretti&show_icons=true&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&icon_color=7448FF&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true">
+  </picture>
+</p>
 
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomoferretti&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true&langs_count=8&layout=compact" width="500">-->
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomoferretti&bg_color=00000000&text_color=FFFFFF&hide=jupyter%20notebook&hide_title=true&layout=compact&langs_count=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomoferretti&bg_color=00000000&text_color=000000&hide=jupyter%20notebook&hide_title=true&layout=compact&langs_count=10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomoferretti&hide=jupyter%20notebook&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true&layout=compact&langs_count=10">
+  </picture>
+</p>
