@@ -79,7 +79,7 @@ Colors:
   </tbody>
 </table>
 
-### Browser Extension
+### 🌐 Browser Extension
 
 <table>
   <thead>
