@@ -198,6 +198,27 @@ Colors:
       <td><img src="https://img.shields.io/github/forks/giacomoferretti/unimi-tools"/></td>
       <td><img src="https://img.shields.io/badge/language-Python-3572A5"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/mc2022-treest-android">Maledetta TreEst (Android)</a></td>
+      <td>Mobile Computing 2022 project - Maledetta TreEst (Android)</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/mc2022-treest-android"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/mc2022-treest-android"/></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/mc2022-treest-react">Maledetta TreEst (React Native)</a></td>
+      <td>Mobile Computing 2022 project - Maledetta TreEst (React Native)</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/mc2022-treest-react"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/mc2022-treest-react"/></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/awc2022-spotify">Spotify GCMO</a></td>
+      <td>Applicazioni Web e Cloud 2022 project - Spotify GCMO</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/awc2022-spotify"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/awc2022-spotify"/></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
