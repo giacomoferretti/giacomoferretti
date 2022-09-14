@@ -33,11 +33,11 @@ Colors:
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Description</th>
-      <th>Stars</th>
-      <th>Forks</th>
-      <th>Language</th>
+      <th width=500>Name</th>
+      <th width=2000>Description</th>
+      <th width=200>Stars</th>
+      <th width=200>Forks</th>
+      <th width=200>Language</th>
     </tr>
   </thead>
   <tbody>
@@ -84,11 +84,11 @@ Colors:
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Description</th>
-      <th>Stars</th>
-      <th>Forks</th>
-      <th>Language</th>
+      <th width=500>Name</th>
+      <th width=2000>Description</th>
+      <th width=200>Stars</th>
+      <th width=200>Forks</th>
+      <th width=200>Language</th>
     </tr>
   </thead>
   <tbody>
@@ -107,11 +107,11 @@ Colors:
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Description</th>
-      <th>Stars</th>
-      <th>Forks</th>
-      <th>Language</th>
+      <th width=500>Name</th>
+      <th width=2000>Description</th>
+      <th width=200>Stars</th>
+      <th width=200>Forks</th>
+      <th width=200>Language</th>
     </tr>
   </thead>
   <tbody>
@@ -130,11 +130,11 @@ Colors:
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Description</th>
-      <th>Stars</th>
-      <th>Forks</th>
-      <th>Language</th>
+      <th width=500>Name</th>
+      <th width=2000>Description</th>
+      <th width=200>Stars</th>
+      <th width=200>Forks</th>
+      <th width=200>Language</th>
     </tr>
   </thead>
   <tbody>
@@ -160,11 +160,11 @@ Colors:
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Description</th>
-      <th>Stars</th>
-      <th>Forks</th>
-      <th>Language</th>
+      <th width=500>Name</th>
+      <th width=2000>Description</th>
+      <th width=200>Stars</th>
+      <th width=200>Forks</th>
+      <th width=200>Language</th>
     </tr>
   </thead>
   <tbody>
@@ -183,11 +183,11 @@ Colors:
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Description</th>
-      <th>Stars</th>
-      <th>Forks</th>
-      <th>Language</th>
+      <th width=500>Name</th>
+      <th width=2000>Description</th>
+      <th width=200>Stars</th>
+      <th width=200>Forks</th>
+      <th width=200>Language</th>
     </tr>
   </thead>
   <tbody>
