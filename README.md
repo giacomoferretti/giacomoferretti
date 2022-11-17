@@ -225,15 +225,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [giacomoferretti/Lab_22-23](https://github.com/giacomoferretti/Lab_22-23) from [UnimiDiComdigProg2/Lab_22-23](https://github.com/UnimiDiComdigProg2/Lab_22-23)
-2. ⭐ Starred [koloo91/monhttp](https://github.com/koloo91/monhttp)
-3. ⭐ Starred [google/gousb](https://github.com/google/gousb)
-4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/vite-starter](https://github.com/giacomoferretti/vite-starter)
-5. ⭐ Starred [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
+1. ⭐ Starred [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter)
+2. 🔱 Forked [giacomoferretti/Lab_22-23](https://github.com/giacomoferretti/Lab_22-23) from [UnimiDiComdigProg2/Lab_22-23](https://github.com/UnimiDiComdigProg2/Lab_22-23)
+3. ⭐ Starred [koloo91/monhttp](https://github.com/koloo91/monhttp)
+4. ⭐ Starred [google/gousb](https://github.com/google/gousb)
+5. ⬆️ Pushed 1 commit(s) to [giacomoferretti/vite-starter](https://github.com/giacomoferretti/vite-starter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 17th, 2022, 10:39:28 AM
+Last Updated: Thursday, November 17th, 2022, 11:09:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
