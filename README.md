@@ -225,15 +225,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [giacomoferretti/X-NUCLEO-NFC06A1](https://github.com/giacomoferretti/X-NUCLEO-NFC06A1) from [stm32duino/X-NUCLEO-NFC06A1](https://github.com/stm32duino/X-NUCLEO-NFC06A1)
-2. 💬 Commented on [#10](https://github.com/giacomoferretti/odex-patcher/issues/10#issuecomment-1320394998) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-3. ⭐ Starred [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter)
-4. 🔱 Forked [giacomoferretti/Lab_22-23](https://github.com/giacomoferretti/Lab_22-23) from [UnimiDiComdigProg2/Lab_22-23](https://github.com/UnimiDiComdigProg2/Lab_22-23)
-5. ⭐ Starred [koloo91/monhttp](https://github.com/koloo91/monhttp)
+1. ⭐ Starred [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+2. 🔱 Forked [giacomoferretti/X-NUCLEO-NFC06A1](https://github.com/giacomoferretti/X-NUCLEO-NFC06A1) from [stm32duino/X-NUCLEO-NFC06A1](https://github.com/stm32duino/X-NUCLEO-NFC06A1)
+3. 💬 Commented on [#10](https://github.com/giacomoferretti/odex-patcher/issues/10#issuecomment-1320394998) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+4. ⭐ Starred [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter)
+5. 🔱 Forked [giacomoferretti/Lab_22-23](https://github.com/giacomoferretti/Lab_22-23) from [UnimiDiComdigProg2/Lab_22-23](https://github.com/UnimiDiComdigProg2/Lab_22-23)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 18th, 2022, 6:10:14 PM
+Last Updated: Sunday, December 18th, 2022, 6:34:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
