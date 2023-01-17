@@ -225,15 +225,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2289](https://github.com/flipperdevices/flipperzero-firmware/pull/2289#issuecomment-1385671051) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
-2. 💬 Commented on [#2289](https://github.com/flipperdevices/flipperzero-firmware/pull/2289#issuecomment-1385618831) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
-3. 💬 Commented on [#2307](https://github.com/flipperdevices/flipperzero-firmware/pull/2307#issuecomment-1383942321) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
-4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/flipperzero-firmware](https://github.com/giacomoferretti/flipperzero-firmware)
-5. 💬 Commented on [#2307](https://github.com/flipperdevices/flipperzero-firmware/pull/2307#discussion_r1071154289) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+1. 💪 Opened PR [#38](https://github.com/flipperzero-rs/flipperzero/pull/38) in [flipperzero-rs/flipperzero](https://github.com/flipperzero-rs/flipperzero)
+2. ⬆️ Pushed 1 commit(s) to [giacomoferretti/flipperzero](https://github.com/giacomoferretti/flipperzero)
+3. 🔱 Forked [giacomoferretti/flipperzero](https://github.com/giacomoferretti/flipperzero) from [flipperzero-rs/flipperzero](https://github.com/flipperzero-rs/flipperzero)
+4. 💬 Commented on [#2289](https://github.com/flipperdevices/flipperzero-firmware/pull/2289#issuecomment-1385671051) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+5. 💬 Commented on [#2289](https://github.com/flipperdevices/flipperzero-firmware/pull/2289#issuecomment-1385618831) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 17th, 2023, 10:09:34 PM
+Last Updated: Tuesday, January 17th, 2023, 10:34:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
