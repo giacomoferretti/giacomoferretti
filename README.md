@@ -225,15 +225,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/5#issuecomment-1387425794) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-2. 💬 Commented on [#5](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/5#issuecomment-1387421154) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-3. 💬 Commented on [#13](https://github.com/giacomoferretti/odex-patcher/issues/13#issuecomment-1387260346) in [giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
-4. 💬 Commented on [#6](https://github.com/giacomoferretti/paranoid-deobfuscator/pull/6#discussion_r1073502460) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-5. 💬 Commented on [#6](https://github.com/giacomoferretti/paranoid-deobfuscator/pull/6#issuecomment-1387031716) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+2. ✔️ Closed issue [#4](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/4) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+3. 💬 Commented on [#4](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/4#issuecomment-1397424668) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+5. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 19th, 2023, 6:38:56 PM
+Last Updated: Thursday, January 19th, 2023, 7:07:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
