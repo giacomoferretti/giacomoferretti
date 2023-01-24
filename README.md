@@ -225,15 +225,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#7](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/7) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-2. 💬 Commented on [#7](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/7#issuecomment-1401957881) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-3. 💬 Commented on [#7](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/7#issuecomment-1401957587) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-5. 💬 Commented on [#5](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/5#issuecomment-1401942003) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/flipperzero-firmware](https://github.com/giacomoferretti/flipperzero-firmware)
+2. 💬 Commented on [#2307](https://github.com/flipperdevices/flipperzero-firmware/pull/2307#discussion_r1086009025) in [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+3. ✔️ Closed issue [#7](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/7) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. 💬 Commented on [#7](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/7#issuecomment-1401957881) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+5. 💬 Commented on [#7](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/7#issuecomment-1401957587) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 24th, 2023, 10:08:47 PM
+Last Updated: Tuesday, January 24th, 2023, 10:33:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
