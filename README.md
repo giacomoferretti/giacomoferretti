@@ -225,15 +225,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#13](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/13) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-2. ❗️ Opened issue [#12](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/12) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-3. ❗️ Opened issue [#11](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/11) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-4. ❗️ Opened issue [#10](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/10) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-5. ❗️ Opened issue [#9](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/9) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+1. 💬 Commented on [#1687](https://github.com/frida/frida/issues/1687#issuecomment-1602793610) in [frida/frida](https://github.com/frida/frida)
+2. ❗️ Opened issue [#13](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/13) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+3. ❗️ Opened issue [#12](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/12) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. ❗️ Opened issue [#11](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/11) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+5. ❗️ Opened issue [#10](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/10) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 22nd, 2023, 2:33:03 PM
+Last Updated: Thursday, June 22nd, 2023, 3:11:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
