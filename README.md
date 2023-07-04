@@ -225,15 +225,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#11](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/11) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-2. ✔️ Closed issue [#10](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/10) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-3. ✔️ Closed issue [#9](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/9) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-4. ⬆️ Pushed 4 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-5. 💬 Commented on [#1687](https://github.com/frida/frida/issues/1687#issuecomment-1602793610) in [frida/frida](https://github.com/frida/frida)
+1. ❗️ Opened issue [#22](https://github.com/google/smali/issues/22) in [google/smali](https://github.com/google/smali)
+2. ✔️ Closed issue [#11](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/11) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+3. ✔️ Closed issue [#10](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/10) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. ✔️ Closed issue [#9](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/9) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+5. ⬆️ Pushed 4 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 4th, 2023, 10:36:25 PM
+Last Updated: Tuesday, July 4th, 2023, 11:09:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
