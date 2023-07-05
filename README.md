@@ -253,3 +253,8 @@ Last Updated: Wednesday, July 5th, 2023, 9:34:16 AM
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomoferretti&hide=jupyter%20notebook&bg_color=1E192F&title_color=7448FF&text_color=FFFFFF&hide_border=true&layout=compact&langs_count=10">
   </picture>
 </p>
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=giacomoferretti/paranoid-deobfuscator,giacomoferretti/odex-patcher,giacomoferretti/nfc-srix-tools,giacomoferretti/ffapi-project&type=Date)](https://star-history.com/#giacomoferretti/paranoid-deobfuscator&giacomoferretti/odex-patcher&giacomoferretti/nfc-srix-tools&giacomoferretti/ffapi-project&Date)
+
