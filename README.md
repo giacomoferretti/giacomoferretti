@@ -225,15 +225,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
-2. ❗️ Opened issue [#22](https://github.com/google/smali/issues/22) in [google/smali](https://github.com/google/smali)
-3. ✔️ Closed issue [#11](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/11) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-4. ✔️ Closed issue [#10](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/10) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-5. ✔️ Closed issue [#9](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/9) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+2. ✔️ Closed issue [#5](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/5) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+3. 💬 Commented on [#5](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/5#issuecomment-1622410144) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. ✔️ Closed issue [#13](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/13) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+5. 💬 Commented on [#13](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/13#issuecomment-1622408645) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 5th, 2023, 7:33:48 PM
+Last Updated: Wednesday, July 5th, 2023, 8:11:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
