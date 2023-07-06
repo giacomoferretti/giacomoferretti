@@ -225,15 +225,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [juliusmarminge/t3-complete](https://github.com/juliusmarminge/t3-complete)
-2. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-3. ✔️ Closed issue [#5](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/5) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-4. 💬 Commented on [#5](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/5#issuecomment-1622410144) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-5. ✔️ Closed issue [#13](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/13) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+1. ✌️ Released [I am not Paranoid](https://github.com/giacomoferretti/paranoid-deobfuscator/releases/tag/v2.0.0) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+2. ⭐ Starred [juliusmarminge/t3-complete](https://github.com/juliusmarminge/t3-complete)
+3. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. ✔️ Closed issue [#5](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/5) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+5. 💬 Commented on [#5](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/5#issuecomment-1622410144) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 6th, 2023, 11:33:50 AM
+Last Updated: Thursday, July 6th, 2023, 12:20:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
