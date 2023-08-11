@@ -225,15 +225,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#16](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/16) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-2. ⬆️ Pushed 1 commit(s) to [giacomoferretti/meteoro](https://github.com/giacomoferretti/meteoro)
-3. ⬆️ Pushed 1 commit(s) to [giacomoferretti/meteoro](https://github.com/giacomoferretti/meteoro)
+1. ✌️ Released [](https://github.com/giacomoferretti/forks-diff/releases/tag/v1.2.4) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+2. ⬆️ Pushed 1 commit(s) to [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+3. ❗️ Opened issue [#16](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/16) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/meteoro](https://github.com/giacomoferretti/meteoro)
-5. 🤝 Became collaborator on [giacomoferretti/meteoro](https://github.com/giacomoferretti/meteoro)
+5. ⬆️ Pushed 1 commit(s) to [giacomoferretti/meteoro](https://github.com/giacomoferretti/meteoro)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 11th, 2023, 4:33:49 PM
+Last Updated: Friday, August 11th, 2023, 5:07:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
