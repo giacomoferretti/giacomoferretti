@@ -256,5 +256,10 @@ Last Updated: Thursday, September 14th, 2023, 7:08:43 AM
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=giacomoferretti/paranoid-deobfuscator,giacomoferretti/odex-patcher,giacomoferretti/nfc-srix-tools,giacomoferretti/ffapi-project&type=Date)](https://star-history.com/#giacomoferretti/paranoid-deobfuscator&giacomoferretti/odex-patcher&giacomoferretti/nfc-srix-tools&giacomoferretti/ffapi-project&Date)
-
+<a href="https://star-history.com/#giacomoferretti/paranoid-deobfuscator&giacomoferretti/odex-patcher&giacomoferretti/nfc-srix-tools&giacomoferretti/ffapi-project&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=giacomoferretti/paranoid-deobfuscator,giacomoferretti/odex-patcher,giacomoferretti/nfc-srix-tools,giacomoferretti/ffapi-project&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=giacomoferretti/paranoid-deobfuscator,giacomoferretti/odex-patcher,giacomoferretti/nfc-srix-tools,giacomoferretti/ffapi-project&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=giacomoferretti/paranoid-deobfuscator,giacomoferretti/odex-patcher,giacomoferretti/nfc-srix-tools,giacomoferretti/ffapi-project&type=Date" />
+  </picture>
+</a>
