@@ -225,15 +225,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
-2. ⭐ Starred [pilcrowOnPaper/lucia](https://github.com/pilcrowOnPaper/lucia)
-3. 💪 Opened PR [#206](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/pull/206) in [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
-4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/prettier-plugin-tailwindcss](https://github.com/giacomoferretti/prettier-plugin-tailwindcss)
-5. 🔱 Forked [giacomoferretti/prettier-plugin-tailwindcss](https://github.com/giacomoferretti/prettier-plugin-tailwindcss) from [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+1. 💪 Opened PR [#1134](https://github.com/lucia-auth/lucia/pull/1134) in [lucia-auth/lucia](https://github.com/lucia-auth/lucia)
+2. ❗️ Opened issue [#1133](https://github.com/lucia-auth/lucia/issues/1133) in [lucia-auth/lucia](https://github.com/lucia-auth/lucia)
+3. 🔱 Forked [giacomoferretti/lucia](https://github.com/giacomoferretti/lucia) from [lucia-auth/lucia](https://github.com/lucia-auth/lucia)
+4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
+5. ⭐ Starred [pilcrowOnPaper/lucia](https://github.com/pilcrowOnPaper/lucia)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 17th, 2023, 3:33:04 PM
+Last Updated: Sunday, September 17th, 2023, 4:09:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
