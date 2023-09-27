@@ -12,7 +12,7 @@
 
 ## Repositories
 
-Here are my personal projects, grouped by category.
+Here are my favorite personal projects, grouped by category.
 
 <!--
 Colors:
@@ -55,13 +55,13 @@ Colors:
       <td><img src="https://img.shields.io/github/forks/giacomoferretti/paranoid-deobfuscator"/></td>
       <td><img src="https://img.shields.io/badge/language-Python-3572A5"/><br/><img src="https://img.shields.io/badge/language-Java-B07219"/></td>
     </tr>
-    <tr>
+    <!--<tr>
       <td><a href="https://github.com/giacomoferretti/sara">SARA</a></td>
       <td>SARA - Single Activity Resourceless Apps</td>
       <td><img src="https://img.shields.io/github/stars/giacomoferretti/sara"/></td>
       <td><img src="https://img.shields.io/github/forks/giacomoferretti/sara"/></td>
       <td><img src="https://img.shields.io/badge/language-Kotlin-A97BFF"/></td>
-    </tr>
+    </tr>-->
     <tr>
       <td><a href="https://github.com/giacomoferretti/janus-toolkit">Janus Toolkit</a></td>
       <td>A collection of tools for the Janus exploit [CVE-2017-13156]</td>
@@ -69,13 +69,13 @@ Colors:
       <td><img src="https://img.shields.io/github/forks/giacomoferretti/janus-toolkit"/></td>
       <td><img src="https://img.shields.io/badge/language-Python-3572A5"/><br/><img src="https://img.shields.io/badge/language-Go-00ADD8"/></td>
     </tr>
-    <tr>
+    <!--<tr>
       <td><a href="https://github.com/giacomoferretti/apk-modding-tools">APK Modding Tools</a></td>
       <td>A collection of tools for modding Android applications</td>
       <td><img src="https://img.shields.io/github/stars/giacomoferretti/apk-modding-tools"/></td>
       <td><img src="https://img.shields.io/github/forks/giacomoferretti/apk-modding-tools"/></td>
       <td><img src="https://img.shields.io/badge/language-Shell-89E051"/></td>
-    </tr>
+    </tr>-->
   </tbody>
 </table>
 
@@ -102,6 +102,7 @@ Colors:
   </tbody>
 </table>
 
+<!--
 ### ⚛️ React
 
 <table>
@@ -124,6 +125,7 @@ Colors:
     </tr>
   </tbody>
 </table>
+-->
 
 ### 📶 Wi-Fi
 
@@ -169,7 +171,7 @@ Colors:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/giacomoferretti/nfc-srix-tools">NFC SRIX Tools</a></td>
+      <td><a href="https://github.com/giacomoferretti/nfc-srix-tools">NFC SRIX Tools (unmaintained)</a></td>
       <td>A collection of tools to read/write NFC ST SRI512 and SRIX4K tags.</td>
       <td><img src="https://img.shields.io/github/stars/giacomoferretti/nfc-srix-tools"/></td>
       <td><img src="https://img.shields.io/github/forks/giacomoferretti/nfc-srix-tools"/></td>
