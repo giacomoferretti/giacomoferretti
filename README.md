@@ -227,15 +227,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2](https://github.com/hassananayi/nfc-srix-programmer/issues/2) in [hassananayi/nfc-srix-programmer](https://github.com/hassananayi/nfc-srix-programmer)
-2. ✔️ Closed issue [#3873](https://github.com/leerob/on-demand-isr/issues/3873) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-3. ❗️ Opened issue [#3873](https://github.com/leerob/on-demand-isr/issues/3873) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-4. ✔️ Closed issue [#16](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/16) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-5. 💬 Commented on [#16](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/16#issuecomment-1752005275) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+1. 💬 Commented on [#1175](https://github.com/shadcn-ui/ui/issues/1175#issuecomment-1774766662) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. ❗️ Opened issue [#2](https://github.com/hassananayi/nfc-srix-programmer/issues/2) in [hassananayi/nfc-srix-programmer](https://github.com/hassananayi/nfc-srix-programmer)
+3. ✔️ Closed issue [#3873](https://github.com/leerob/on-demand-isr/issues/3873) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
+4. ❗️ Opened issue [#3873](https://github.com/leerob/on-demand-isr/issues/3873) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
+5. ✔️ Closed issue [#16](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/16) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 23rd, 2023, 9:09:37 AM
+Last Updated: Monday, October 23rd, 2023, 9:33:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
