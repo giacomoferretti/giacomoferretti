@@ -227,15 +227,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
-2. ⭐ Starred [hartwork/grub2-theme-preview](https://github.com/hartwork/grub2-theme-preview)
-3. 💬 Commented on [#1](https://github.com/giacomoferretti/fz-backup/issues/1#issuecomment-1873533427) in [giacomoferretti/fz-backup](https://github.com/giacomoferretti/fz-backup)
-4. ⭐ Starred [AngeloD2022/jsxer](https://github.com/AngeloD2022/jsxer)
-5. ⭐ Starred [noproto/flipper_kdf](https://github.com/noproto/flipper_kdf)
+1. ✌️ Released [](https://github.com/giacomoferretti/paranoid-deobfuscator/releases/tag/v2.0.1) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+2. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+3. ⬆️ Pushed 4 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+5. ⭐ Starred [hartwork/grub2-theme-preview](https://github.com/hartwork/grub2-theme-preview)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 12th, 2024, 2:33:47 PM
+Last Updated: Friday, January 12th, 2024, 3:09:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
