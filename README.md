@@ -227,15 +227,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#17](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/17) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-2. ⭐ Starred [LSPosed/LSParanoid](https://github.com/LSPosed/LSParanoid)
-3. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)
-4. ⭐ Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
-5. ⭐ Starred [alvarlagerlof/rsc-parser](https://github.com/alvarlagerlof/rsc-parser)
+1. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+2. ❗️ Opened issue [#17](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/17) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+3. ⭐ Starred [LSPosed/LSParanoid](https://github.com/LSPosed/LSParanoid)
+4. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)
+5. ⭐ Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 28th, 2024, 6:36:55 AM
+Last Updated: Tuesday, May 28th, 2024, 7:10:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
