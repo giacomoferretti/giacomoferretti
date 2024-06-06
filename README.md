@@ -227,15 +227,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
-2. ❗️ Opened issue [#17](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/17) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-3. ⭐ Starred [LSPosed/LSParanoid](https://github.com/LSPosed/LSParanoid)
-4. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)
-5. ⭐ Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+1. ⭐ Starred [gentilkiwi/st25tb_kameleon](https://github.com/gentilkiwi/st25tb_kameleon)
+2. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+3. ❗️ Opened issue [#17](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/17) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. ⭐ Starred [LSPosed/LSParanoid](https://github.com/LSPosed/LSParanoid)
+5. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 6th, 2024, 4:12:35 PM
+Last Updated: Thursday, June 6th, 2024, 4:36:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
