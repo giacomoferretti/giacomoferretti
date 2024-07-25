@@ -230,11 +230,10 @@ Colors:
 1. ⭐ Starred [gentilkiwi/st25tb_kameleon](https://github.com/gentilkiwi/st25tb_kameleon)
 2. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
 3. ❗️ Opened issue [#17](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/17) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-4. ⭐ Starred [LSPosed/LSParanoid](https://github.com/LSPosed/LSParanoid)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 25th, 2024, 2:36:52 AM
+Last Updated: Thursday, July 25th, 2024, 3:11:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
