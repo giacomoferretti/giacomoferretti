@@ -227,15 +227,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5](https://github.com/giacomoferretti/forks-diff/issues/5) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
-2. ❗️ Opened issue [#4](https://github.com/giacomoferretti/forks-diff/issues/4) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
-3. ⬆️ Pushed 1 commit(s) to [TracerTag/frontend](https://github.com/TracerTag/frontend)
-4. ⬆️ Pushed 1 commit(s) to [TracerTag/frontend](https://github.com/TracerTag/frontend)
-5. ⬆️ Pushed 1 commit(s) to [TracerTag/frontend](https://github.com/TracerTag/frontend)
+1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+2. ⬆️ Pushed 2 commit(s) to [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+3. ✌️ Released [](https://github.com/giacomoferretti/forks-diff/releases/tag/v1.3.0) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+4. ✔️ Closed issue [#5](https://github.com/giacomoferretti/forks-diff/issues/5) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
+5. ✔️ Closed issue [#4](https://github.com/giacomoferretti/forks-diff/issues/4) in [giacomoferretti/forks-diff](https://github.com/giacomoferretti/forks-diff)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 24th, 2024, 12:58:30 AM
+Last Updated: Thursday, October 24th, 2024, 2:15:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
