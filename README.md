@@ -62,13 +62,13 @@ Colors:
       <td><img src="https://img.shields.io/github/forks/giacomoferretti/sara"/></td>
       <td><img src="https://img.shields.io/badge/language-Kotlin-A97BFF"/></td>
     </tr>-->
-    <tr>
+    <!--<tr>
       <td><a href="https://github.com/giacomoferretti/janus-toolkit">Janus Toolkit</a></td>
       <td>A collection of tools for the Janus exploit [CVE-2017-13156]</td>
       <td><img src="https://img.shields.io/github/stars/giacomoferretti/janus-toolkit"/></td>
       <td><img src="https://img.shields.io/github/forks/giacomoferretti/janus-toolkit"/></td>
       <td><img src="https://img.shields.io/badge/language-Python-3572A5"/><br/><img src="https://img.shields.io/badge/language-Go-00ADD8"/></td>
-    </tr>
+    </tr>-->
     <!--<tr>
       <td><a href="https://github.com/giacomoferretti/apk-modding-tools">APK Modding Tools</a></td>
       <td>A collection of tools for modding Android applications</td>
@@ -150,6 +150,7 @@ Colors:
 </table>
 -->
 
+<!--
 ### 📶 Wi-Fi
 
 <table>
@@ -246,6 +247,7 @@ Colors:
     </tr>
   </tbody>
 </table>
+-->
 
 ## ⚡ Recent Activity
 
