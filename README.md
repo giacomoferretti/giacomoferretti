@@ -79,7 +79,7 @@ Colors:
   </tbody>
 </table>
 
-### 🤖 Python
+### 🐍 Python
 
 <table>
   <thead>
