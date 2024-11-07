@@ -79,7 +79,7 @@ Colors:
   </tbody>
 </table>
 
-### 🌐 Browser Extension
+### 🌐 Browser Extensions
 
 <table>
   <thead>
@@ -97,6 +97,29 @@ Colors:
       <td>A Chrome and Firefox extension to show commits ahead and behind in the "Forks" page.</td>
       <td><img src="https://img.shields.io/github/stars/giacomoferretti/forks-diff"/></td>
       <td><img src="https://img.shields.io/github/forks/giacomoferretti/forks-diff"/></td>
+      <td><img src="https://img.shields.io/badge/language-JavaScript-F1E05A"/></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🌐 GNOME Extensions
+
+<table>
+  <thead>
+    <tr>
+      <th width=500>Name</th>
+      <th width=2000>Description</th>
+      <th width=200>Stars</th>
+      <th width=200>Forks</th>
+      <th width=200>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/gnome-shell-extension-scaling-factor-menu">GNOME Shell Extension - Text Scaling Factor Menu</a></td>
+      <td>A GNOME Shell extension that add a Quick Settings menu to change "text-scaling-factor".</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/gnome-shell-extension-scaling-factor-menu"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/gnome-shell-extension-scaling-factor-menu"/></td>
       <td><img src="https://img.shields.io/badge/language-JavaScript-F1E05A"/></td>
     </tr>
   </tbody>
