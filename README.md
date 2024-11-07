@@ -79,6 +79,36 @@ Colors:
   </tbody>
 </table>
 
+### 🤖 Python
+
+<table>
+  <thead>
+    <tr>
+      <th width=500>Name</th>
+      <th width=2000>Description</th>
+      <th width=200>Stars</th>
+      <th width=200>Forks</th>
+      <th width=200>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor">WhatsApp Backup Google Driver Downloader Decryptor</a></td>
+      <td>A tool to download encrypted WhatsApp backups from Google Drive and decrypt them locally.</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/whatsapp-backup-downloader-decryptor"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/whatsapp-backup-downloader-decryptor"/></td>
+      <td><img src="https://img.shields.io/badge/language-Python-3572A5"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giacomoferretti/android-git-scanner">Android Git Scanner</a></td>
+      <td>Helper for Odex Patcher</td>
+      <td><img src="https://img.shields.io/github/stars/giacomoferretti/android-git-scanner"/></td>
+      <td><img src="https://img.shields.io/github/forks/giacomoferretti/android-git-scanner"/></td>
+      <td><img src="https://img.shields.io/badge/language-Python-3572A5"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ### 🌐 Browser Extensions
 
 <table>
