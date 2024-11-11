@@ -282,15 +282,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/pull/1#issuecomment-2468128153) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
-2. 💬 Commented on [#20](https://github.com/ElDavoo/wa-crypt-tools/issues/20#issuecomment-2466307564) in [ElDavoo/wa-crypt-tools](https://github.com/ElDavoo/wa-crypt-tools)
-3. ⬆️ Pushed 3 commit(s) to [giacomoferretti/android-git-scanner](https://github.com/giacomoferretti/android-git-scanner)
-4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
-5. ⬆️ Pushed 1 commit(s) to [giacomoferretti/giacomoferretti](https://github.com/giacomoferretti/giacomoferretti)
+1. ✌️ Released [](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/releases/tag/v0.1.3) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+2. 💬 Commented on [#1](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/pull/1#issuecomment-2468263728) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+3. ❌ Closed PR [#1](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/pull/1) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+4. ⬆️ Pushed 5 commit(s) to [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+5. 💬 Commented on [#1](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/pull/1#issuecomment-2468128153) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 11th, 2024, 1:37:29 PM
+Last Updated: Monday, November 11th, 2024, 2:12:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
