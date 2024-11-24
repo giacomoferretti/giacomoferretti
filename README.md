@@ -313,10 +313,10 @@ Last Updated: Sunday, November 24th, 2024, 11:12:01 PM
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#giacomoferretti/paranoid-deobfuscator&giacomoferretti/odex-patcher&giacomoferretti/nfc-srix-tools&giacomoferretti/ffapi-project&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=giacomoferretti/paranoid-deobfuscator%2Cgiacomoferretti%2Fodex-patcher%2Cgiacomoferretti%2Fnfc-srix-tools%2Cgiacomoferretti%2Fffapi-project&type=Date&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=giacomoferretti/paranoid-deobfuscator%2Cgiacomoferretti%2Fodex-patcher%2Cgiacomoferretti%2Fnfc-srix-tools%2Cgiacomoferretti%2Fffapi-project&type=Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=giacomoferretti/paranoid-deobfuscator%2Cgiacomoferretti%2Fodex-patcher%2Cgiacomoferretti%2Fnfc-srix-tools%2Cgiacomoferretti%2Fffapi-project&type=Date">
-  </picture>
+<a href="https://star-history.com/#giacomoferretti/paranoid-deobfuscator&giacomoferretti/odex-patcher&giacomoferretti/whatsapp-backup-downloader-decryptor&giacomoferretti/forks-diff&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=giacomoferretti/paranoid-deobfuscator,giacomoferretti/odex-patcher,giacomoferretti/whatsapp-backup-downloader-decryptor,giacomoferretti/forks-diff&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=giacomoferretti/paranoid-deobfuscator,giacomoferretti/odex-patcher,giacomoferretti/whatsapp-backup-downloader-decryptor,giacomoferretti/forks-diff&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=giacomoferretti/paranoid-deobfuscator,giacomoferretti/odex-patcher,giacomoferretti/whatsapp-backup-downloader-decryptor,giacomoferretti/forks-diff&type=Date" />
+ </picture>
 </a>
