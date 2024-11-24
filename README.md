@@ -282,15 +282,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#15](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/15#issuecomment-2492524149) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-2. ⭐ Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
-3. 💬 Commented on [#39](https://github.com/iafilatov/libfprint/issues/39#issuecomment-2486798374) in [iafilatov/libfprint](https://github.com/iafilatov/libfprint)
-4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
-5. ✌️ Released [](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/releases/tag/v0.1.3) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+2. ✌️ Released [](https://github.com/giacomoferretti/paranoid-deobfuscator/releases/tag/v3.0.0) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+3. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. 💬 Commented on [#15](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/15#issuecomment-2492524149) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+5. ⭐ Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 24th, 2024, 10:10:48 PM
+Last Updated: Sunday, November 24th, 2024, 10:37:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
