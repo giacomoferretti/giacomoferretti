@@ -53,7 +53,7 @@ Colors:
       <td>Deobfuscate "paranoid" protected apps</td>
       <td><img src="https://img.shields.io/github/stars/giacomoferretti/paranoid-deobfuscator"/></td>
       <td><img src="https://img.shields.io/github/forks/giacomoferretti/paranoid-deobfuscator"/></td>
-      <td><img src="https://img.shields.io/badge/language-Python-3572A5"/><br/><img src="https://img.shields.io/badge/language-Java-B07219"/></td>
+      <td><img src="https://img.shields.io/badge/language-Python-3572A5"/><!--<br/><img src="https://img.shields.io/badge/language-Java-B07219"/>--></td>
     </tr>
     <!--<tr>
       <td><a href="https://github.com/giacomoferretti/sara">SARA</a></td>
