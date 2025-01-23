@@ -282,15 +282,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
-2. ✔️ Closed issue [#2](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/issues/2) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
-3. 💬 Commented on [#7](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/issues/7#issuecomment-2608112929) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
-4. 💬 Commented on [#6](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/issues/6#issuecomment-2608110982) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
-5. ✔️ Closed issue [#6](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/issues/6) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+1. ✌️ Released [](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/releases/tag/v0.1.4) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+2. ⬆️ Pushed 2 commit(s) to [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+3. 💬 Commented on [#7](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/issues/7#issuecomment-2608124856) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+4. ✔️ Closed issue [#7](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/issues/7) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+5. ⬆️ Pushed 3 commit(s) to [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 23rd, 2025, 5:11:45 AM
+Last Updated: Thursday, January 23rd, 2025, 5:36:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
