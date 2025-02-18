@@ -283,14 +283,14 @@ Colors:
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-2. 💬 Commented on [#8798](https://github.com/topjohnwu/Magisk/issues/8798#issuecomment-2664247100) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
-3. 💬 Commented on [#18](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/18#issuecomment-2664240779) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-4. ⬆️ Pushed 4 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-5. 💬 Commented on [#19](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/19#issuecomment-2664162217) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+2. ✌️ Released [](https://github.com/giacomoferretti/paranoid-deobfuscator/releases/tag/v3.0.1) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+3. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+5. 💬 Commented on [#8798](https://github.com/topjohnwu/Magisk/issues/8798#issuecomment-2664247100) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 18th, 2025, 8:35:41 PM
+Last Updated: Tuesday, February 18th, 2025, 9:10:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
