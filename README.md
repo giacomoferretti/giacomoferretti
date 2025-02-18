@@ -282,15 +282,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#18](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/18#issuecomment-2665045219) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+1. ✌️ Released [](https://github.com/giacomoferretti/paranoid-deobfuscator/releases/tag/v3.0.2) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 2. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-3. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
-4. ✌️ Released [](https://github.com/giacomoferretti/paranoid-deobfuscator/releases/tag/v3.0.1) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+3. ⬆️ Pushed 2 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
+4. 💬 Commented on [#18](https://github.com/giacomoferretti/paranoid-deobfuscator/issues/18#issuecomment-2665045219) in [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 5. ⬆️ Pushed 1 commit(s) to [giacomoferretti/paranoid-deobfuscator](https://github.com/giacomoferretti/paranoid-deobfuscator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 18th, 2025, 9:34:17 PM
+Last Updated: Tuesday, February 18th, 2025, 10:11:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
