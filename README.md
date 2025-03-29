@@ -5,10 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=giacomoferretti"/>
   <img src="https://img.shields.io/github/followers/giacomoferretti?style=social"/>
 </p>-->
-<p align="center">
+<!--<p align="center">
   <a href="https://giacomoferretti.com">Website</a> •
   <a href="mailto:giacomo.ferretti.00@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/giacomoferretti/">LinkedIn</a>
+</p>-->
+
+<p align="center">
+  <a href="https://www.paypal.me/hexile0"><img src="https://img.shields.io/badge/Website-black?style=flat-square" alt="Website"></a> •
+  <a href="https://www.paypal.me/hexile0"><img src="https://img.shields.io/badge/Email-C71610?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> •
+  <a href="https://www.paypal.me/hexile0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="LinkedIn"></a>
 </p>
 
 ## Repositories
