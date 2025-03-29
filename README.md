@@ -7,7 +7,8 @@
 </p>-->
 <p align="center">
   <a href="https://giacomoferretti.com">Website</a> •
-  <a href="mailto:giacomo.ferretti.00@gmail.com">Email</a>
+  <a href="mailto:giacomo.ferretti.00@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/giacomoferretti/">LinkedIn</a>
 </p>
 
 ## Repositories
