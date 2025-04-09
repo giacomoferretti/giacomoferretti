@@ -12,9 +12,9 @@
 </p>-->
 
 <p align="center">
-  <a href="https://www.paypal.me/hexile0"><img src="https://img.shields.io/badge/Website-black?style=flat-square" alt="Website" height="26"></a> •
-  <a href="https://www.paypal.me/hexile0"><img src="https://img.shields.io/badge/Email-C71610?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="26"></a> •
-  <a href="https://www.paypal.me/hexile0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="LinkedIn" height="26"></a>
+  <a href="https://giacomoferretti.com"><img src="https://img.shields.io/badge/Website-black?style=flat-square" alt="Website" height="26"></a> •
+  <a href="mailto:giacomo.ferretti.00@gmail.com"><img src="https://img.shields.io/badge/Email-C71610?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="26"></a> •
+  <a href="https://www.linkedin.com/in/giacomoferretti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="LinkedIn" height="26"></a>
 </p>
 
 ## Repositories
