@@ -289,15 +289,15 @@ Colors:
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
-2. 💬 Commented on [#40](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/issues/40#issuecomment-3237788596) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
-3. ⭐ Starred [barvian/number-flow](https://github.com/barvian/number-flow)
-4. ⭐ Starred [paper-design/shaders](https://github.com/paper-design/shaders)
-5. 💬 Commented on [#330](https://github.com/asteasolutions/zod-to-openapi/issues/330#issuecomment-3144305055) in [asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi)
+1. ✌️ Released [](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/releases/tag/v0.1.7) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+2. ⬆️ Pushed 3 commit(s) to [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+3. 💬 Commented on [#40](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor/issues/40#issuecomment-3237788596) in [giacomoferretti/whatsapp-backup-downloader-decryptor](https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor)
+4. ⭐ Starred [barvian/number-flow](https://github.com/barvian/number-flow)
+5. ⭐ Starred [paper-design/shaders](https://github.com/paper-design/shaders)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 30th, 2025, 6:17:09 AM
+Last Updated: Saturday, August 30th, 2025, 6:42:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 📈 GitHub Stats
