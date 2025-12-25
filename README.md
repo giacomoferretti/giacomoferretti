@@ -100,7 +100,7 @@ Colors:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor">WhatsApp Backup Google Driver Downloader Decryptor</a></td>
+      <td><a href="https://github.com/giacomoferretti/whatsapp-backup-downloader-decryptor">WhatsApp Backup Google Drive Downloader Decryptor</a></td>
       <td>A tool to download encrypted WhatsApp backups from Google Drive and decrypt them locally.</td>
       <td><img src="https://img.shields.io/github/stars/giacomoferretti/whatsapp-backup-downloader-decryptor"/></td>
       <td><img src="https://img.shields.io/github/forks/giacomoferretti/whatsapp-backup-downloader-decryptor"/></td>
